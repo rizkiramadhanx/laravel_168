@@ -9,7 +9,7 @@
         <div class="mt-2 mb-2">
             <input class="form-check-input" type="radio" id="L" name="jenis_kelamin" value="L">
             <label for="L">Laki-laki</label>
-            <input class="form-check-input " type="radio" name="jenis_kelamin" id="P" value="Perempuan">
+            <input class="form-check-input " type="radio" name="jenis_kelamin" id="P" value="P">
             <label for="P">Perempuan</label> <br />
         </div>
 

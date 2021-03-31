@@ -7,7 +7,7 @@
 
         Jenis Kelamin : <input type="radio" id="L" name="jenis_kelamin" value="L">
         <label for="L">Laki-laki</label>
-        <input type="radio" name="jenis_kelamin" id="P" value="Perempuan">
+        <input type="radio" name="jenis_kelamin" id="P" value="P">
         <label for="P">Perempuan</label> <br />
 
         Agama : <select name="agama" id="agama">
